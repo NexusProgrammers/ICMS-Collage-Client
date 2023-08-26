@@ -9,7 +9,7 @@ import DeleteAccountModel from "./DeleteAccountModel";
 import ConfirmDeleteModal from "./ConfirmDeleteModal";
 import Spinner from "./Spinner";
 import ViewFormModal from "./ViewApplyModal";
-import DeleteApplyModal from "./deleteApplyModal";
+import DeleteApplyModal from "./DeleteApplyModal";
 import AcceptApplyModal from "./AcceptApplyModal";
 import RejectApplyModal from "./RejectApplyModal";
 import VerifyEmailModal from "./VerifyEmailModal";
